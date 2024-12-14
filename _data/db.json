@@ -1,0 +1,144 @@
+{
+  "tickets": [
+    {
+      "id": "1",
+      "title": "Range Rover: Elevating Luxury, Everywhere You Go",
+      "body": "The Range Rover stands as a true icon in the world of luxury SUVs, seamlessly blending sophistication, capability, and innovation. Designed for those who demand excellence, it offers a perfect balance of refined craftsmanship and robust off-road performance. With its sleek design, advanced technology, and plush interiors, the Range Rover delivers a driving experience like no other. Whether navigating urban streets or conquering rugged terrains, it offers unparalleled versatility, ensuring every journey is as comfortable as it is thrilling. The Range Rover isn’t just a vehicle; it’s a statement of prestige and power.",
+      "priority": "low",
+      "user_email": "huza@gmail.com"
+    },
+    {
+      "id": "2",
+      "title": "Range Rover: Power, Prestige, and Performance Redefined",
+      "body": "The Range Rover is more than just a car—it’s a legacy of excellence that has defined luxury SUVs for generations. Its bold, timeless design is complemented by cutting-edge technology, including intuitive infotainment systems, advanced driver-assistance features, and innovative off-road capabilities. Each detail, from the premium leather interiors to the precision-engineered chassis, reflects a commitment to unmatched quality and performance. The Range Rover is designed to elevate your lifestyle, offering seamless connectivity, ample space, and uncompromised comfort.",
+      "priority": "medium",
+      "user_email": "huza@gmail.com"
+    },
+    {
+      "id": "3",
+      "title": "Range Rover: Mastering Every Terrain in Style",
+      "body": "Underneath its elegant exterior lies a powerful heart, with a range of high-performance engines delivering exceptional power and efficiency. From smooth highways to challenging landscapes, the Range Rover’s all-terrain capabilities ensure a commanding presence wherever it goes. Its adaptive dynamics and air suspension provide a ride so smooth it feels effortless, while its eco-conscious hybrid options make it a leader in sustainable luxury. Experience the perfect harmony of sophistication and strength with the Range Rover—a true masterpiece for modern explorers.",
+      "priority": "high",
+      "user_email": "huza@gmail.com"
+    },
+    {
+      "id": "19bc",
+      "title": "no car",
+      "body": "24",
+      "priority": "high",
+      "user_email": "mario@netninja.dev"
+    },
+    {
+      "id": "d5fa",
+      "title": "volvo",
+      "body": "i dont know\n",
+      "priority": "medium",
+      "user_email": "mario@netninja.dev"
+    },
+    {
+      "id": "9f43",
+      "title": "corolla",
+      "body": "35",
+      "priority": "high",
+      "user_email": "mario@netninja.dev"
+    },
+    {
+      "id": "6115",
+      "title": "volvo",
+      "body": "40",
+      "priority": "high",
+      "user_email": "mario@netninja.dev"
+    },
+    {
+      "id": "963d",
+      "title": "f",
+      "body": "f",
+      "priority": "high",
+      "user_email": "mario@netninja.dev"
+    },
+    {
+      "id": "fd03",
+      "title": "th",
+      "body": "h",
+      "priority": "low",
+      "user_email": "mario@netninja.dev"
+    },
+    {
+      "id": "255b",
+      "title": "my car is hodaaa",
+      "body": "35",
+      "priority": "high",
+      "user_email": "mario@netninja.dev"
+    },
+    {
+      "id": "4842",
+      "title": "we are fine",
+      "body": "2560",
+      "priority": "high",
+      "user_email": "mario@netninja.dev"
+    },
+    {
+      "id": "021c",
+      "title": "we the winner",
+      "body": "60+``",
+      "priority": "high",
+      "user_email": "mario@netninja.dev"
+    },
+    {
+      "id": "bf86",
+      "title": "hello",
+      "body": "hi",
+      "priority": "high",
+      "user_email": "mario@netninja.dev"
+    },
+    {
+      "id": "ebd5",
+      "title": "super hero..",
+      "body": "white lambo",
+      "priority": "high",
+      "user_email": "mario@netninja.dev"
+    },
+    {
+      "id": "e216",
+      "title": "n",
+      "body": "n",
+      "priority": "medium",
+      "user_email": "mario@netninja.dev"
+    },
+    {
+      "id": "3988",
+      "title": "mercedes",
+      "body": "90",
+      "priority": "high",
+      "user_email": "mario@netninja.dev"
+    },
+    {
+      "id": "5b55",
+      "title": "x",
+      "body": "x",
+      "priority": "medium",
+      "user_email": "mario@netninja.dev"
+    },
+    {
+      "id": "b6c2",
+      "title": "hh",
+      "body": "h",
+      "priority": "low",
+      "user_email": "mario@netninja.dev"
+    },
+    {
+      "id": "afce",
+      "title": "hh",
+      "body": "hh",
+      "priority": "medium",
+      "user_email": "Huziafa@gmail.com"
+    },
+    {
+      "id": "dbdc",
+      "title": "lambo",
+      "body": "10",
+      "priority": "high",
+      "user_email": "Huziafa@gmail.com"
+    }
+  ]
+}
